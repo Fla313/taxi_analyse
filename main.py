@@ -1,5 +1,4 @@
 ### Kleine Analyse
-### Über den Taxis Datensatz
 
 import seaborn as sns
 import matplotlib.pyplot as plt
