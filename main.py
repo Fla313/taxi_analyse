@@ -1,6 +1,3 @@
-### Kleine Taxis Analyse
-### Kleiner Testzweig
-
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
